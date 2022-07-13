@@ -3,6 +3,8 @@
 
 Trajectory 1:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0z3QyzuW_Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Trajectory following Animation:
 
 ![Traj1_2](https://user-images.githubusercontent.com/103686807/177695867-1d8f951a-de7a-41b8-ad13-2a61ec21dc0b.PNG)
