@@ -3,7 +3,10 @@
 
 Trajectory 1:
 
-[![Watch the video]()](https://youtu.be/0z3QyzuW_Kw)
+
+
+https://user-images.githubusercontent.com/103686807/178725438-ab09f740-92ea-4eba-bc08-f54ba3323df0.mp4
+
 
 
 Trajectory following Animation:
