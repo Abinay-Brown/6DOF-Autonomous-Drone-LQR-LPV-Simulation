@@ -3,7 +3,8 @@
 
 Trajectory 1:
 
-https://youtu.be/0z3QyzuW_Kw
+[![Watch the video]()](https://youtu.be/0z3QyzuW_Kw)
+
 
 Trajectory following Animation:
 
